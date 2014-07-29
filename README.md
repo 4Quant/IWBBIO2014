@@ -3,10 +3,8 @@
 - __[The presentation](https://rawgit.com/4Quant/IWBBIO2014/master/iwbbioPresentation.html)__
 
 ## Authors
-### Kevin Mader (4Quant and ETH Zurich)
-### Leah-Rae Donahue (The Jackson Laboratory)
-### Ralph Müller (ETH Zurich)
-### Marco Stampanoni (ETH Zurich, Paul Scherrer Institut)
+
+Kevin Mader (4Quant and ETH Zurich), Leah-Rae Donahue (The Jackson Laboratory), Ralph Müller (ETH Zurich), Marco Stampanoni (ETH Zurich, Paul Scherrer Institut)
 
 ## Biography
 Kevin Mader is a lecturer in the X-ray Microscopy Group within the Department for Information Technology and Electrical Engineering at ETH Zurich. His research focuses on turning big hairy 3D images into simple, robust, reproducible numbers without resorting to black boxes or magic. In particular, as part of several collaborations, he is currently working on automatically segmenting full animal zebrafish images, characterizing rheology in 3D flows, and measuring viral infection dynamics in cell lines.
